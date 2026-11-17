@@ -3,6 +3,11 @@
   // Build command: python3 build.py     Deploy command: npx wrangler deploy
   "name": "essentialmusictheory",
   "compatibility_date": "2026-11-01",
+  // Wrangler runs this before every deploy, so dist/ is built even if the Cloudflare
+  // project has no build command set.
+  "build": {
+    "command": "python3 build.py"
+  },
   "assets": {
     "directory": "./dist",
     // "none" keeps the old .html addresses exactly as they were on Solo Build It.
