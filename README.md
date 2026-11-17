@@ -62,7 +62,7 @@ In that mode Cloudflare does not serve `index.html` at `/` by itself, so `build.
 
 ## Before launch
 
-- [ ] Courses: where they are hosted, a link and a price for each, and check the outline of each level (`offers.courses` in `site.json`)
+- [ ] Courses: not open yet (17 Nov 2026), so the page says "Opening soon" and takes names through the contact page. Check the outline of each level now. When they open: set `buy_url` and `price`, remove `"soon": true` (`offers.courses` in `site.json`), and change the two "Opening soon" prices under `paths`
 - [ ] Volumes 2 and 3: what each covers and when (`offers.book.series`)
 - [ ] The unanswered questions on the book and courses pages (`faqs` with `"a": null`)
 - [ ] Activity Books page (`content/music-theory-workbook.html`): were they published? Add a link or remove the page

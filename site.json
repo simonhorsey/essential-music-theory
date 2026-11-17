@@ -146,6 +146,7 @@
         "text": "Never read a note? Start here. The staff, the clefs and how rhythm works, with me showing you each step.",
         "short": "Never read a note? Start here.",
         "price_label": "Online course",
+        "price": "Opening soon",
         "cta": "Explore the Beginner Course",
         "href": "/music-theory-courses.html"
       },
@@ -156,6 +157,7 @@
         "text": "One course for each grade, taken in order. Each picks up exactly where the last one stopped, all the way to that all-important Grade 5.",
         "short": "One course per grade, all the way to Grade 5.",
         "price_label": "Online courses",
+        "price": "Opening soon",
         "cta": "Explore the Graded Courses",
         "href": "/music-theory-courses.html"
       }
@@ -166,7 +168,7 @@
     "steps": [
       {
         "title": "Start Where You Are",
-        "text": "New to reading music? Begin with the Beginner Course or Volume 1 of the book. Already playing? Pick the grade you are working toward."
+        "text": "New to reading music? Begin with Volume 1 of the book, or a free lesson. The courses open soon, with one for every level up to Grade 5."
       },
       {
         "title": "Learn One Idea at a Time",
@@ -181,7 +183,7 @@
   "showcase": {
     "eyebrow": "Inside Essential Music Theory",
     "heading": "Everything You Need to Understand the Music You Play",
-    "intro": "A book you can hear, six courses from beginner to Grade 5, and free lessons to get you started.",
+    "intro": "A book you can hear, free lessons to get you started, and six courses from beginner to Grade 5 on the way.",
     "items": [
       {
         "tag": "Start Here",
@@ -208,7 +210,7 @@
         "tag": "For Beginners",
         "tab": "Beginner Course",
         "title": "The Beginner Course",
-        "meta": "Online course · no experience needed",
+        "meta": "Online course · opening soon",
         "text": "If the page looks like dots and squiggles, this is for you. Learn the staff, the clefs and how rhythm works, and read your first tune.",
         "cta": "See the Beginner Course",
         "href": "/music-theory-courses.html",
@@ -218,7 +220,7 @@
         "tag": "For Exam Students",
         "tab": "Grades 1 to 5",
         "title": "A Course for Every Grade",
-        "meta": "Online courses · Grade 1 to Grade 5",
+        "meta": "Online courses · opening soon",
         "text": "Take them in order. Scales, key signatures, intervals, chords and cadences each arrive when you are ready for them, and not before.",
         "cta": "See the Graded Courses",
         "href": "/music-theory-courses.html",
@@ -501,14 +503,14 @@
       "product": "Essential Music Theory Courses",
       "price": null,
       "buy_url": null,
-      "show_price": true,
+      "soon": true,
       "page_title": "Music Theory Courses: Beginner to Grade 5",
       "description": "Online music theory courses from Simon Horsey: a Beginner Course for people who have never read a note, then one course for each grade from Grade 1 to Grade 5.",
       "audience": "Online courses, one level at a time",
       "heading": "Six Courses. One Clear Path From First Note to Grade 5.",
-      "lead": "Never read a note? Start with the Beginner Course. Then take the grades in order. Each course picks up exactly where the last one stopped, and the path ends at Grade 5, because that is the one most people need.",
+      "lead": "I am building them now. Never read a note? You will start with the Beginner Course, then take the grades in order. Each course picks up exactly where the last one stopped, and the path ends at Grade 5, because that is the one most people need.",
       "cta_buy": "See the Courses",
-      "cta_wait": "Register Your Interest",
+      "cta_wait": "Join the Waiting List",
       "cta_href": "/contact.html",
       "stakes": {
         "heading": "Theory Goes Wrong When You Skip a Step",
@@ -522,7 +524,7 @@
       },
       "offer": {
         "heading": "Six Levels, Taken in Order",
-        "needs_review": "Draft outline, based on the ABRSM syllabus for each grade. Check it against what each course really covers, then add prices and links.",
+        "needs_review": "Draft outline, based on the ABRSM syllabus for each grade. Check it against what you plan for each course.",
         "items": [
           {
             "title": "Beginner",
@@ -552,16 +554,16 @@
       },
       "steps": [
         {
+          "title": "Join the Waiting List",
+          "text": "The courses are being built now. Add your name and you will be among the first to hear when they open."
+        },
+        {
           "title": "Find Your Level",
           "text": "Never read music? Take the Beginner Course. Otherwise start a grade below where you think you are. It is quicker than filling gaps later."
         },
         {
           "title": "Take One Course at a Time",
-          "text": "Work through the lessons in order, and check each idea before you move on to the next."
-        },
-        {
-          "title": "Sit the Exam, or Just Enjoy Knowing",
-          "text": "By Grade 5 you can read, write and understand most of the music you will ever play."
+          "text": "Work through the lessons in order and check each idea before you move on. By Grade 5 you can read, write and understand most of the music you will ever play."
         }
       ],
       "faqs": [
@@ -574,6 +576,10 @@
           "a": "Because Grade 5 is the one most people need. It is the theory exam the practical boards ask for before the higher grades. These courses are built to get you there with a solid grounding, not to turn you into a professor of harmony."
         },
         {
+          "q": "When do the courses open?",
+          "a": "They are being built now. Join the waiting list and you will be among the first to know. In the meantime, Volume 1 of the book covers everything from complete beginner to Grade 2."
+        },
+        {
           "q": "Do I need the book as well?",
           "a": null
         },
@@ -582,7 +588,7 @@
           "a": null
         },
         {
-          "q": "How much do the courses cost?",
+          "q": "How much will the courses cost?",
           "a": null
         }
       ],
