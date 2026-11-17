@@ -1,0 +1,710 @@
+{
+  "_readme": "All settings and sales copy live here. While draft is true, anything still waiting on you shows a red Draft tag and search engines are told not to index the site. Fill a null in and its tag goes. Set draft to false to launch.",
+  "draft": true,
+  "name": "Essential Music Theory",
+  "url": "https://www.essential-music-theory.com",
+  "author": "Simon Horsey",
+  "locale": "en",
+  "title": "Essential Music Theory | Music Theory Is Easier Than You Think",
+  "description": "Learn to read music and understand how it works. An interactive music theory book, courses from beginner to Grade 5 and free lessons from music teacher Simon Horsey.",
+  "tagline": "Music theory is easier than you think.",
+  "forms": {
+    "newsletter_action": null,
+    "contact_action": null
+  },
+  "primary_cta": {
+    "label": "Choose Your Path",
+    "href": "/#paths"
+  },
+  "nav": [
+    {
+      "label": "Books & Courses",
+      "items": [
+        {
+          "label": "Essential Music Theory, Volume 1",
+          "note": "The interactive book: beginner to Grade 2",
+          "href": "/essential-music-theory.html"
+        },
+        {
+          "label": "Theory Courses",
+          "note": "Beginner, then Grade 1 to Grade 5",
+          "href": "/music-theory-courses.html"
+        },
+        {
+          "label": "Activity Books",
+          "note": "Written practice to go with the book",
+          "href": "/music-theory-workbook.html"
+        }
+      ]
+    },
+    {
+      "label": "Free Lessons",
+      "items": [
+        {
+          "label": "Learn to Read Music",
+          "note": "Start here if you are new",
+          "href": "/learn-to-read-music.html"
+        },
+        {
+          "label": "Note Values",
+          "note": "How long each note lasts",
+          "href": "/music-note.html"
+        },
+        {
+          "label": "Clefs and the Grand Staff",
+          "note": "Treble, bass and how they join up",
+          "href": "/music-clef.html"
+        },
+        {
+          "label": "Key Signatures",
+          "note": "Easy ways to remember them",
+          "href": "/key-signatures.html"
+        },
+        {
+          "label": "Intervals",
+          "note": "Working out the distance between notes",
+          "href": "/music-intervals.html"
+        },
+        {
+          "label": "All Free Lessons",
+          "note": "Every lesson, by topic",
+          "href": "/music-theory-blog.html"
+        }
+      ]
+    },
+    {
+      "label": "More",
+      "items": [
+        {
+          "label": "Your Questions Answered",
+          "note": "Real questions from readers",
+          "href": "/music-theory-questions.html"
+        },
+        {
+          "label": "Blank Manuscript Paper",
+          "note": "Free to print, eight layouts",
+          "href": "/blank-manuscript-paper.html"
+        },
+        {
+          "label": "Meet Your Guide",
+          "note": "The teacher behind the site",
+          "href": "/simon-horsey.html"
+        },
+        {
+          "label": "Contact",
+          "note": "Ask a question",
+          "href": "/contact.html"
+        }
+      ]
+    }
+  ],
+  "hero": {
+    "eyebrow": "Essential Music Theory",
+    "heading": "Music Theory Is Easier Than You Think.",
+    "problem": "Many people believe music theory is hard, and go to any lengths to avoid learning to read music. It isn't hard. Not if you go about it the right way.",
+    "solution": "I'm Simon, a music teacher. I'll take you from your very first note to Grade 5, one clear step at a time, with music you can hear and quizzes to check you really have it.",
+    "secondary_cta": {
+      "label": "Try a Free Lesson",
+      "href": "/learn-to-read-music.html"
+    }
+  },
+  "trust": {
+    "label": "From first note to Grade 5",
+    "items": [
+      "Reading music",
+      "Rhythm",
+      "Clefs",
+      "Key signatures",
+      "Scales",
+      "Intervals",
+      "Chords"
+    ]
+  },
+  "paths": {
+    "eyebrow": "Ways to Learn",
+    "heading": "Start Where You Are. Go as Far as Grade 5.",
+    "aside": {
+      "text": "Not sure where to start?",
+      "label": "Try a free lesson on reading music",
+      "href": "/learn-to-read-music.html"
+    },
+    "items": [
+      {
+        "slug": "book",
+        "audience": "For learning at your own pace",
+        "title": "Essential Music Theory, Volume 1",
+        "text": "The interactive book for iPad and Mac. From complete beginner to Grade 2, with audio, video, mind maps and quizzes that mark themselves.",
+        "short": "The interactive book: complete beginner to Grade 2.",
+        "price_label": "On Apple Books",
+        "cta": "Explore the Book",
+        "href": "/essential-music-theory.html"
+      },
+      {
+        "slug": "courses",
+        "audience": "For complete beginners",
+        "title": "The Beginner Course",
+        "text": "Never read a note? Start here. The staff, the clefs and how rhythm works, with me showing you each step.",
+        "short": "Never read a note? Start here.",
+        "price_label": "Online course",
+        "cta": "Explore the Beginner Course",
+        "href": "/music-theory-courses.html"
+      },
+      {
+        "slug": "courses",
+        "audience": "For students working toward an exam",
+        "title": "Grade 1 to Grade 5 Courses",
+        "text": "One course for each grade, taken in order. Each picks up exactly where the last one stopped, all the way to that all-important Grade 5.",
+        "short": "One course per grade, all the way to Grade 5.",
+        "price_label": "Online courses",
+        "cta": "Explore the Graded Courses",
+        "href": "/music-theory-courses.html"
+      }
+    ]
+  },
+  "plan": {
+    "heading": "Understand Music in Three Simple Steps",
+    "steps": [
+      {
+        "title": "Start Where You Are",
+        "text": "New to reading music? Begin with the Beginner Course or Volume 1 of the book. Already playing? Pick the grade you are working toward."
+      },
+      {
+        "title": "Learn One Idea at a Time",
+        "text": "Each idea builds on the last. Hear it, see it, then check you have understood it with a short quiz before you move on."
+      },
+      {
+        "title": "Use It When You Play",
+        "text": "Read new pieces faster, spot the key at a glance, and walk into your theory exam knowing what to expect."
+      }
+    ]
+  },
+  "showcase": {
+    "eyebrow": "Inside Essential Music Theory",
+    "heading": "Everything You Need to Understand the Music You Play",
+    "intro": "A book you can hear, six courses from beginner to Grade 5, and free lessons to get you started.",
+    "items": [
+      {
+        "tag": "Start Here",
+        "tab": "The Book",
+        "title": "Essential Music Theory, Volume 1",
+        "meta": "Interactive book · iPad and Mac · beginner to Grade 2",
+        "text": "Sixteen chapters that start with the elements of music and finish with everything you need for Grade 1 and Grade 2. Listen to the examples, watch the videos, then take the quiz at the end of the chapter.",
+        "cta": "See the Book",
+        "href": "/essential-music-theory.html",
+        "image": "/images/essential-music-theory-book-1-3d.png",
+        "image_alt": "The cover of Essential Music Theory, Volume 1"
+      },
+      {
+        "tag": "Coming Soon",
+        "tab": "Volumes 2 & 3",
+        "title": "Volumes 2 and 3 Are on the Way",
+        "meta": "The series continues to Grade 5",
+        "text": "Volume 1 takes you to Grade 2. Volume 2 picks up from there, and Volume 3 gets you through that all-important Grade 5 exam.",
+        "cta": "See the Series",
+        "href": "/essential-music-theory.html#series",
+        "art": "series"
+      },
+      {
+        "tag": "For Beginners",
+        "tab": "Beginner Course",
+        "title": "The Beginner Course",
+        "meta": "Online course · no experience needed",
+        "text": "If the page looks like dots and squiggles, this is for you. Learn the staff, the clefs and how rhythm works, and read your first tune.",
+        "cta": "See the Beginner Course",
+        "href": "/music-theory-courses.html",
+        "art": "course"
+      },
+      {
+        "tag": "For Exam Students",
+        "tab": "Grades 1 to 5",
+        "title": "A Course for Every Grade",
+        "meta": "Online courses · Grade 1 to Grade 5",
+        "text": "Take them in order. Scales, key signatures, intervals, chords and cadences each arrive when you are ready for them, and not before.",
+        "cta": "See the Graded Courses",
+        "href": "/music-theory-courses.html",
+        "art": "levels"
+      },
+      {
+        "tag": "Free Lessons",
+        "tab": "Free Lessons",
+        "title": "Free Lessons to Get You Started",
+        "meta": "Reading music · rhythm · keys · intervals",
+        "text": "Learn to read music from scratch, find out how many beats a dotted note is worth, and pick up a couple of easy ways to remember your key signatures.",
+        "cta": "Browse the Free Lessons",
+        "href": "/music-theory-blog.html",
+        "art": "library"
+      },
+      {
+        "tag": "Free Download",
+        "tab": "Manuscript Paper",
+        "title": "Blank Manuscript Paper",
+        "meta": "Eight layouts · A4 and US Letter",
+        "text": "Sooner or later you have to write music down. Print as much as you need. The staff lines are lighter than most, so your own writing is easy to see.",
+        "cta": "Get the Free Paper",
+        "href": "/blank-manuscript-paper.html",
+        "art": "paper"
+      },
+      {
+        "tag": "Your Guide",
+        "tab": "Meet Simon",
+        "title": "A Teacher Who Knows Where People Get Stuck",
+        "meta": "Simon Horsey · teacher and author",
+        "text": "I have taught music to classes and to one student at a time, from seven-year-olds to adults. The same few things trip nearly everyone up. I wrote down how to get past them.",
+        "cta": "Meet Your Guide",
+        "href": "/simon-horsey.html",
+        "art": "guideperson"
+      }
+    ]
+  },
+  "lead_magnet": {
+    "eyebrow": "Free Download",
+    "heading": "Free Manuscript Paper. Print as Much as You Need.",
+    "text": "Sooner or later you have to write music down. Eight layouts, in A4 and US Letter, with lighter staff lines so your own writing is easy to see.",
+    "button": "Get the Free Manuscript Paper",
+    "href": "/blank-manuscript-paper.html",
+    "guide_title": "Blank Manuscript Paper",
+    "guide_subtitle": "8 printable layouts, A4 and US Letter",
+    "idea": "This is a straight download with no email address asked for. If you would like to build a mailing list, a one-page key signature cheat sheet in exchange for an email would sit well here."
+  },
+  "testimonials": {
+    "eyebrow": "What Readers Say",
+    "heading": "Readers Say It Finally Makes Sense",
+    "intro": "These readers wrote about Essential Music Theory, Volume 1.",
+    "items": [
+      {
+        "group": "Parent",
+        "quote": "I would definitely recommend this book to other parents in a heartbeat.",
+        "name": "Victoria"
+      },
+      {
+        "group": "Adult learner",
+        "quote": "Thanks to this book, I now have a solid understanding of music theory. It is easy enough for me to understand, and I also like that it didn’t assume I knew everything about music already, like some other books did.",
+        "name": "Ron Fredrick"
+      },
+      {
+        "group": "Plays by ear",
+        "quote": "I’ve played by ear all my life but with Essential Music Theory I have learned to read music and so much more about how it is constructed. I’ve even done a few of my own compositions. Thank you!",
+        "name": "Jack"
+      }
+    ],
+    "placeholder_groups": []
+  },
+  "closing": {
+    "eyebrow": "Your Next Step",
+    "heading": "Don't Be Scared of Music Theory.",
+    "text": "It's quite easy once you get the hang of it, and I'm here to help you do that. Pick your path."
+  },
+  "guide": {
+    "heading": "From a Teacher Who Knows Where People Get Stuck",
+    "lead": "I'm Simon Horsey. I have taught music to classes and to one student at a time, from seven-year-olds to adults, for more than 20 years. Along the way I worked out where most people get stuck with theory, and how to get them unstuck.",
+    "credentials": [
+      "More than 20 years of teaching music to children and adults",
+      "A 100% pass rate in theory exams, with Merits and Distinctions at ABRSM",
+      "Author of Essential Music Theory and Practice Makes Perfect"
+    ],
+    "needs_review": "Taken from the old book page, written around 2014. Please check each line is still right."
+  },
+  "article_cta": {
+    "eyebrow": "The whole course",
+    "heading": "Want It All in One Place?",
+    "text": "Everything on this site, and a great deal more, is in Essential Music Theory, Volume 1: sixteen chapters with audio, video and quizzes that mark themselves.",
+    "primary": {
+      "label": "Explore the Book",
+      "href": "/essential-music-theory.html"
+    },
+    "secondary": {
+      "label": "See the Courses",
+      "href": "/music-theory-courses.html"
+    }
+  },
+  "offers": {
+    "book": {
+      "product": "Essential Music Theory, Volume 1: Learn to Read and Appreciate Music",
+      "price": "$9.99",
+      "buy_url": "https://books.apple.com/us/book/essential-music-theory/id920182047?at=11lmGm",
+      "show_price": true,
+      "page_title": "Essential Music Theory, Volume 1: Learn to Read and Appreciate Music",
+      "description": "Essential Music Theory, Volume 1 by Simon Horsey: an interactive book for iPad and Mac that takes you from complete beginner to Grade 2 music theory, with audio, video and built-in quizzes.",
+      "audience": "The interactive book for iPad and Mac",
+      "heading": "At Last, an Easier Way to Learn Music Theory",
+      "lead": "Learning to read music really is easier than you think. Volume 1 takes you from the very first note to Grade 2, with music you can hear, videos that show you how, and quizzes that tell you straight away whether you've got it.",
+      "cta_buy": "Get It on Apple Books",
+      "cta_wait": "Register Your Interest",
+      "image": "/images/essential-music-theory-book-1-3d.png",
+      "image_alt": "The cover of Essential Music Theory, Volume 1",
+      "stakes": {
+        "heading": "Does Music Seem Too Complicated?",
+        "text": "Are you, or your child, frustrated with learning to read music? Fed up with not being able to finish those theory questions? It isn't you. Most theory books ask you to learn facts by rote and never let you hear what they mean.",
+        "items": [
+          "Learning facts by rote without knowing why",
+          "Books that assume you already know half of it",
+          "Reading about sounds you never get to hear",
+          "Finishing a chapter with no idea whether you understood it",
+          "Putting off the theory exam you need for the higher grades"
+        ]
+      },
+      "offer": {
+        "heading": "Hear It. See It. Then Check You've Got It.",
+        "items": [
+          {
+            "title": "Read Both Clefs",
+            "text": "Treble and bass, using one simple technique. It makes the C clef easy later on, too."
+          },
+          {
+            "title": "Start With the Elements",
+            "text": "The basic building blocks of music. Many theory books don't even mention them, and everything else stands on them."
+          },
+          {
+            "title": "Key Signatures Made Easy",
+            "text": "Shortcuts for working them out, and one simple trick so you never forget D, A, E and B major as long as you live."
+          },
+          {
+            "title": "US and UK Note Names",
+            "text": "Quarter note or crotchet? Why learn only one when it is so easy to learn both?"
+          },
+          {
+            "title": "Scales by Method, Not by Rote",
+            "text": "Learn the pattern once and you can build almost any major or minor scale."
+          },
+          {
+            "title": "Words That Stick",
+            "text": "Pesante means heavy. Picture peasants dancing in hobnailed boots and you will never forget it."
+          }
+        ],
+        "includes": [
+          "Sixteen chapters, from the elements of music to tonic triads",
+          "A mind map at the start of every chapter, so you know where you are going",
+          "Audio examples: hear the difference instead of just reading about it",
+          "Videos for the trickier ideas",
+          "Review quizzes marked inside the book, with no internet connection needed",
+          "Everything for ABRSM Grade 1 and Grade 2 theory, in one book",
+          "Free updates through Apple Books whenever I improve it"
+        ],
+        "includes_review": "Taken from the old book page. Confirm the list still matches the current edition."
+      },
+      "figures": [
+        {
+          "src": "/images/music-theory-mindmap.png",
+          "alt": "A mind map from the start of a chapter",
+          "caption": "A mind map gives you the overview before each chapter"
+        },
+        {
+          "src": "/images/music-theory-tests.png",
+          "alt": "A review quiz inside the book",
+          "caption": "Quizzes are marked inside the book"
+        }
+      ],
+      "chapters": [
+        {"title": "The Elements of Music", "topics": "How music is written down · The building blocks of music"},
+        {"title": "Pulse and Rhythm", "topics": "Pulse · Rhythm · The parts of the note · Note lengths and names · The rhythm tree · Dotted notes"},
+        {"title": "Pitch", "topics": "The musical alphabet · Lines and spaces · The G and F clefs · The grand staff and middle C · The piano keyboard · Ledger lines"},
+        {"title": "All About Time", "topics": "Measures and bar lines · Time signatures · The anacrusis · Rests"},
+        {"title": "Composing", "topics": "Composing an answering rhythm · Using the material you are given · Thinking about endings"},
+        {"title": "Performance Directions 1", "topics": "Dynamics · Tempo · Articulation · Form"},
+        {"title": "Back in Time", "topics": "Ties · Triplets"},
+        {"title": "Grouping", "topics": "Grouping notes · Dotted notes · Mixtures · Rests"},
+        {"title": "Tones and Semitones", "topics": "Sharps · Flats · Naturals · Accidentals · The keyboard"},
+        {"title": "Major Scales", "topics": "The pattern of tones and semitones · Degrees of the scale · Sharp or flat?"},
+        {"title": "Major Keys and Key Signatures", "topics": "Key signatures from scales · Relative keys · The cycle of fifths · The order of sharps and flats"},
+        {"title": "More About Time", "topics": "More complex time signatures · Grouping"},
+        {"title": "Intervals", "topics": "What an interval is · How to count them · How to write them"},
+        {"title": "Minor Scales", "topics": "Relative minors · Natural, harmonic and melodic minors"},
+        {"title": "Tonic Triads", "topics": "Chords · Numbering and labelling · Root position triads"},
+        {"title": "Performance Directions 2", "topics": "Tempo · Dynamics · Articulation"}
+      ],
+      "series": {
+        "heading": "One Series, All the Way to Grade 5",
+        "needs_review": "The old site said Volume 2 would cover Grades 2 and 3 and Volume 3 would cover Grade 5. Confirm what each volume covers and when it is due.",
+        "items": [
+          {
+            "title": "Volume 1",
+            "status": "Available now",
+            "text": "Learn to read and appreciate music. Complete beginner to Grade 2."
+          },
+          {
+            "title": "Volume 2",
+            "status": "Coming soon",
+            "text": "Picks up where Volume 1 stops and takes you on through Grade 3."
+          },
+          {
+            "title": "Volume 3",
+            "status": "Coming soon",
+            "text": "Everything you need for that all-important Grade 5 exam."
+          }
+        ]
+      },
+      "reviews": {
+        "heading": "Don't Just Take My Word for It",
+        "intro": "Five-star reviews from Apple Books.",
+        "items": [
+          {
+            "quote": "I've attempted to read many theory books and this is the first one that makes sense.",
+            "name": "SaraH.36"
+          },
+          {
+            "quote": "It is also full of short cuts and tips to teach you recognise key signatures more easily.",
+            "name": "Shar Patter"
+          },
+          {
+            "quote": "The quizzes concept is fun & very helpful too.",
+            "name": "No Shaffer"
+          }
+        ]
+      },
+      "steps": [
+        {
+          "title": "Get the Book",
+          "text": "Download Volume 1 from Apple Books to your iPad or Mac."
+        },
+        {
+          "title": "Take a Chapter at a Time",
+          "text": "Look over the mind map, listen to the examples, then take the quiz at the end."
+        },
+        {
+          "title": "Use It When You Play",
+          "text": "Read new music faster, and walk into Grade 1 or Grade 2 theory knowing what to expect."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do I need to know anything before I start?",
+          "a": "No. Volume 1 starts with the elements of music and assumes nothing at all."
+        },
+        {
+          "q": "Which exam grades does it cover?",
+          "a": "Everything you need for ABRSM Grade 1 and Grade 2 theory. In other courses that is Books 1 and 2, and sometimes 3."
+        },
+        {
+          "q": "I don't take exams. Is it still for me?",
+          "a": "Yes. Rock, jazz or classical, knowing how music is put together makes you better at reading, improvising and composing. And you will enjoy music more when you understand how it works."
+        },
+        {
+          "q": "What do I need to read it?",
+          "a": "An iPad or a Mac with the Apple Books app. The audio, video and quizzes are built into the book, so once it has downloaded you don't need an internet connection."
+        },
+        {
+          "q": "Can I use it with a class?",
+          "a": "Yes. Each student works at their own pace and takes the review at the end of each section, so the differentiation is built in."
+        },
+        {
+          "q": "Is it available for Kindle or as a PDF?",
+          "a": null
+        },
+        {
+          "q": "When are Volumes 2 and 3 coming out?",
+          "a": null
+        }
+      ],
+      "closing": "Don't Be Scared of Music Theory."
+    },
+    "courses": {
+      "product": "Essential Music Theory Courses",
+      "price": null,
+      "buy_url": null,
+      "show_price": true,
+      "page_title": "Music Theory Courses: Beginner to Grade 5",
+      "description": "Online music theory courses from Simon Horsey: a Beginner Course for people who have never read a note, then one course for each grade from Grade 1 to Grade 5.",
+      "audience": "Online courses, one level at a time",
+      "heading": "Six Courses. One Clear Path From First Note to Grade 5.",
+      "lead": "Never read a note? Start with the Beginner Course. Then take the grades in order. Each course picks up exactly where the last one stopped, and the path ends at Grade 5, because that is the one most people need.",
+      "cta_buy": "See the Courses",
+      "cta_wait": "Register Your Interest",
+      "cta_href": "/contact.html",
+      "stakes": {
+        "heading": "Theory Goes Wrong When You Skip a Step",
+        "text": "Almost every student I meet who is stuck on theory is stuck for the same reason: there is a gap further back. Key signatures won't make sense until scales do, and scales won't until you are sure of your tones and semitones.",
+        "items": [
+          "Starting at the grade your playing has reached, not your theory",
+          "Cramming for Grade 5 because the practical exam needs it",
+          "Memorizing answers without understanding them",
+          "Knowing something is missing, but not what"
+        ]
+      },
+      "offer": {
+        "heading": "Six Levels, Taken in Order",
+        "needs_review": "Draft outline, based on the ABRSM syllabus for each grade. Check it against what each course really covers, then add prices and links.",
+        "items": [
+          {
+            "title": "Beginner",
+            "text": "The staff, treble and bass clefs, note names and note values. No experience needed. By the end you can read a simple tune."
+          },
+          {
+            "title": "Grade 1",
+            "text": "Simple time signatures, rests, ties and dotted notes. The scales and key signatures of C, G, D and F major, tonic triads and your first musical terms."
+          },
+          {
+            "title": "Grade 2",
+            "text": "Ledger lines, triplets and new time signatures. More major keys, your first minor keys, and intervals counted from the tonic."
+          },
+          {
+            "title": "Grade 3",
+            "text": "Compound time, keys up to four sharps and flats, major, minor and perfect intervals, and moving a tune from one clef to another."
+          },
+          {
+            "title": "Grade 4",
+            "text": "The alto clef, double sharps and flats, the chromatic scale, every kind of interval, and the three chords most music is built on."
+          },
+          {
+            "title": "Grade 5",
+            "text": "The tenor clef, keys up to six sharps and flats, transposing for instruments, chords and cadences, and reading a score in four parts."
+          }
+        ]
+      },
+      "steps": [
+        {
+          "title": "Find Your Level",
+          "text": "Never read music? Take the Beginner Course. Otherwise start a grade below where you think you are. It is quicker than filling gaps later."
+        },
+        {
+          "title": "Take One Course at a Time",
+          "text": "Work through the lessons in order, and check each idea before you move on to the next."
+        },
+        {
+          "title": "Sit the Exam, or Just Enjoy Knowing",
+          "text": "By Grade 5 you can read, write and understand most of the music you will ever play."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Which course should I start with?",
+          "a": "If you have never read music, the Beginner Course. If you read a little, start at Grade 1 and move quickly through what you know. The gaps are usually further back than people think."
+        },
+        {
+          "q": "Why do the courses stop at Grade 5?",
+          "a": "Because Grade 5 is the one most people need. It is the theory exam the practical boards ask for before the higher grades. These courses are built to get you there with a solid grounding, not to turn you into a professor of harmony."
+        },
+        {
+          "q": "Do I need the book as well?",
+          "a": null
+        },
+        {
+          "q": "Do the courses follow a particular exam board?",
+          "a": null
+        },
+        {
+          "q": "How much do the courses cost?",
+          "a": null
+        }
+      ],
+      "closing": "Take the First Step. The Rest Follows."
+    }
+  },
+  "footer": {
+    "columns": [
+      {
+        "label": "Books & Courses",
+        "links": [
+          {
+            "label": "Essential Music Theory, Volume 1",
+            "href": "/essential-music-theory.html"
+          },
+          {
+            "label": "Theory Courses",
+            "href": "/music-theory-courses.html"
+          },
+          {
+            "label": "Activity Books",
+            "href": "/music-theory-workbook.html"
+          }
+        ]
+      },
+      {
+        "label": "Free Resources",
+        "links": [
+          {
+            "label": "Free Lessons",
+            "href": "/music-theory-blog.html"
+          },
+          {
+            "label": "Your Questions Answered",
+            "href": "/music-theory-questions.html"
+          },
+          {
+            "label": "Blank Manuscript Paper",
+            "href": "/blank-manuscript-paper.html"
+          },
+          {
+            "label": "Meet Your Guide",
+            "href": "/simon-horsey.html"
+          },
+          {
+            "label": "Contact",
+            "href": "/contact.html"
+          }
+        ]
+      },
+      {
+        "label": "Also by Simon Horsey",
+        "links": [
+          {
+            "label": "Essential Music Practice",
+            "href": "https://www.essential-music-practice.com"
+          },
+          {
+            "label": "LearningForSuccess",
+            "href": "https://www.learning-for-success.com"
+          }
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "label": "Privacy Policy",
+        "href": "/privacy-policy.html"
+      },
+      {
+        "label": "Disclaimer",
+        "href": "/disclaimer.html"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "reading",
+      "title": "Reading music",
+      "blurb": "The staff, the clefs and where the notes live."
+    },
+    {
+      "id": "rhythm",
+      "title": "Rhythm and note values",
+      "blurb": "How long each note lasts, dots included."
+    },
+    {
+      "id": "keys",
+      "title": "Keys and key signatures",
+      "blurb": "Easy ways to work them out and remember them."
+    },
+    {
+      "id": "intervals",
+      "title": "Intervals",
+      "blurb": "Measuring the distance between two notes."
+    },
+    {
+      "id": "resources",
+      "title": "Useful files",
+      "blurb": "Things to print and write on."
+    },
+    {
+      "id": "questions",
+      "title": "Your questions answered",
+      "blurb": "Real questions from readers, with my answers."
+    }
+  ],
+  "redirects": {
+    "/getintouch.html": "/contact.html",
+    "/book-comments.html": "/essential-music-theory.html",
+    "/mr-robert-cooke.html": "/essential-music-theory.html",
+    "/chords-for-jazz-improvisation.html": "/music-theory-questions.html",
+    "/demisemiquaver-and-hemidemisemiquaver-note-values.html": "/music-note.html",
+    "/name-for-single-repeated-note.html": "/music-theory-questions.html",
+    "/tempo-markings-in-music.html": "/music-theory-questions.html",
+    "/the-grands-staff.html": "/grand-staff.html",
+    "/tremolo-notation-equivalent-applied-to-drum-rolls.html": "/music-theory-questions.html",
+    "/ledger-lines.html": "/grand-staff.html",
+    "/how-to-read-music.html": "/learn-to-read-music.html",
+    "/inverting-intervals.html": "/inverted-intervals.html",
+    "/music-theory-courses": "/music-theory-courses.html",
+    "/courses": "/music-theory-courses.html",
+    "/book": "/essential-music-theory.html"
+  }
+}
