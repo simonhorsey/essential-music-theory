@@ -546,7 +546,9 @@ h3 { font-size: clamp(1.25rem, 2vw, 1.55rem); line-height: 1.2; }
 /* lessons */
 .prose .center { text-align: center; max-width: none; }
 .prose figure { font-size: 0.9375rem; color: var(--muted); text-align: center; }
-.prose .img-left + .img-left { margin-top: 0.3rem; }
+/* a picture that follows a paragraph starts on its own line; pictures in a row (key signatures) still sit side by side */
+.prose p + .img-left, .prose ul + .img-left { clear: left; }
+.prose p + .img-right, .prose ul + .img-right { clear: right; }
 .prose .video { position: relative; aspect-ratio: 16 / 9; margin: 1.5rem 0; background: var(--ink); border-radius: var(--radius-sm); overflow: hidden; clear: both; }
 .prose .video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
 .prose td p { margin-bottom: 0.4em; }
